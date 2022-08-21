@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Abid
+- 👀 I’m interested in Computer Science, Web Development, Artificial Intelligence & More...
+- 🌱 I’m currently learning CyberSecurity. I'm trying to publish an article about Web Security...
+- 💞️ I’m looking to collaborate on Programming, Problem Solving, Web Design & Development...
+- 📫 How to reach me ...
+  Fiverr: https://www.fiverr.com/abid2012
+  LinkedIn: https://www.linkedin.com/in/s-m-abiduzzaman-1b2370134
+  Email: abidzamanymail@gmail.com
+
+<!---
+abid2012/abid2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
